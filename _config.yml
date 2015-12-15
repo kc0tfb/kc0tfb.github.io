@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kc0tfb.github.io
+title: Peter Gamache
+tagline: Security is a process, not a product.
+description: I'm trying out tinypress, which turns GitHub into a microblogging site.
+paginate: 5
